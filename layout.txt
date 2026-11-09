@@ -1,0 +1,47 @@
+﻿== data ==
+Folder PATH listing
+Volume serial number is 1284-0573
+D:\SEM 3.1\RESEARCH PROJECT 1\STRESS_DISTILLATION_PROJECT\DATA
++---processed
+|       raw_windows.npz
+|       windows.npz
+|       
+\---raw
+== outputs ==
+Folder PATH listing
+Volume serial number is 1284-0573
+D:\SEM 3.1\RESEARCH PROJECT 1\STRESS_DISTILLATION_PROJECT\OUTPUTS
+    signal_overview.png
+    student_medium.pt
+    student_small.pt
+    student_target.pt
+    student_tiny.pt
+    teacher_model.pt
+    
+No subfolders exist 
+
+== src ==
+Folder PATH listing
+Volume serial number is 1284-0573
+D:\SEM 3.1\RESEARCH PROJECT 1\STRESS_DISTILLATION_PROJECT\SRC
+|   baseline_crossval.py
+|   baseline_model.py
+|   compare_normalization.py
+|   data_loader.py
+|   explore.py
+|   final_evaluation.py
+|   losses.py
+|   preprocessing.py
+|   preprocessing_raw.py
+|   student_models.py
+|   synthetic_data.py
+|   train_student.py
+|   train_teacher.py
+|   
+\---__pycache__
+        baseline_model.cpython-312.pyc
+        data_loader.cpython-312.pyc
+        synthetic_data.cpython-312.pyc
+        train_student.cpython-312.pyc
+        train_teacher.cpython-312.pyc
+        
